@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**CyanYuMu/CyanYuMu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **CyanYuMu**, a student 🎓 and an **AI enthusiast 🤖**.
+ I’m really excited to meet many amazing and talented people here 💫,
+ and I hope to **learn more**, **grow together**, and **create awesome open-source projects** 🚀.
 
-Here are some ideas to get you started:
+🎸 Music and 💻 coding are two of my favorite things!
+ I’ve got some experience with **embedded systems** and **the Internet**,
+ and I’m always open to your **feedback and advice 🙏** to help me improve!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on backends and agents
+- 🌱 I’m currently learning SFT,RAG
+- 👯 I’m  collaborate in LanshanTeamWork
+- 🤔 I’m looking for help with you
+  -->that's not all ……
