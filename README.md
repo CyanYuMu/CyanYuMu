@@ -13,3 +13,6 @@ I'm **CyanYuMu**, a student 🎓 and an **AI enthusiast 🤖**.
 - 👯 I’m  collaborate in LanshanTeamWork
 - 🤔 I’m looking for help with you
   -->that's not all ……
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyanYuMu&layout=compact&theme=tokyonight)
